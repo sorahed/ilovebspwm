@@ -18,10 +18,10 @@ cd ilovebspwm
 
 # Some commands to assist you in using
 
->> Super + D (Opens the rofi (Menu);)
->> Super + F (Full screen window;)
->> Super + T (Exits full screen mode;)
->> Super + 1,2,3,4........10 (Switch between workspaces;)
->> Super + Alt + R (A quick reboot;)
->> Super + Enter (Open the terminal;)
->> Super + Right-click (Sets the size of the windows)
+> Super + D (Opens the rofi (Menu);)
+> Super + F (Full screen window;)
+> Super + T (Exits full screen mode;)
+> Super + 1,2,3,4........10 (Switch between workspaces;)
+> Super + Alt + R (A quick reboot;)
+> Super + Enter (Open the terminal;)
+> Super + Right-click (Sets the size of the windows)
