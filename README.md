@@ -8,6 +8,7 @@ Unbuntu and Debian install [bspwm](https://github.com/baskerville/bspwm), [Polyb
 ```sh
 git clone https://github.com/soraint0x80/ilovebspwm
 cd ilovebspwm
+chmod +x ilovebspwm.sh
 ./ilovebspwm --install
 ```
 
