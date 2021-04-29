@@ -83,10 +83,10 @@ _finish(){
 }
 
 _install(){
-  _apt_packs
-  _deps_build
+  _apt_packages
+  _dependencies
   [[ ! $(which cmake 2>/dev/null) ]] && _deps_build
-  _git_svn_packs
+  _git_packs
   [[ $(grep -i 'debian' /etc/issue) ]] && sudo apt -y install polybar || _build_polybar
   _cfg_all
   _ok
